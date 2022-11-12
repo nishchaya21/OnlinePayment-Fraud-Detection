@@ -10,12 +10,12 @@ This synthetic dataset is scaled down 1/4 of the original dataset and it is crea
 Dataset link :- https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
 
 
-#MODEL
+#MODEL ACCURACY
 
 ---------------------------
 
-ANN:-
+ANN:- 0.9989051222801208
 
-CNN:-
+CNN:- 0.9972921013832092
 
-AdaBoost:-
+AdaBoost:- 0.9994370558008
